@@ -1,0 +1,12 @@
+torch>=2.0.0
+transformers>=4.38.0
+tokenizers>=0.15.0
+numpy>=1.24.0
+tqdm>=4.65.0
+
+# 可选：实验跟踪
+# swanlab>=0.3.0
+
+# 可选：数据集下载
+# modelscope>=1.9.0
+# huggingface_hub>=0.20.0

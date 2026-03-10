@@ -1,0 +1,35 @@
+# 数据集
+dataset/
+processed_data_link
+
+# 模型权重文件
+models/
+base_model_215M/
+*.pth
+*.pt
+*.bin
+*.safetensors
+*.gguf
+*.ggml
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# 训练输出
+outputs/
+checkpoints/
+runs/
+wandb/
+
+# 编辑器与本地工具配置
+.vscode/
+.idea/
+.claude/
+
+# 其他
+*.log
+.DS_Store
